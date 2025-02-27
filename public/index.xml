@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Une Perle En Plus...</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Une Perle En Plus...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Feb 2025 23:03:39 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dragonera</title>
+      <link>http://localhost:1313/dragonera/</link>
+      <pubDate>Thu, 27 Feb 2025 23:03:39 +0100</pubDate>
+      <guid>http://localhost:1313/dragonera/</guid><media:content url="http://localhost:1313/dragonera/IMG_20250118_144017_hu_a539414094f7a569.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/dragonera/IMG_20250118_144017_hu_a539414094f7a569.jpg&quot; /&gt;
+          &lt;p&gt;OSBORNE &amp; LITTLE et JIM THOMPSON (n° 118)&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Isabella</title>
+      <link>http://localhost:1313/isabella/</link>
+      <pubDate>Thu, 27 Feb 2025 23:03:25 +0100</pubDate>
+      <guid>http://localhost:1313/isabella/</guid><media:content url="http://localhost:1313/isabella/IMG_20250118_144701_hu_290a92b6cadaae82.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/isabella/IMG_20250118_144701_hu_290a92b6cadaae82.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Les Singeries</title>
+      <link>http://localhost:1313/les-singeries/</link>
+      <pubDate>Thu, 27 Feb 2025 23:03:13 +0100</pubDate>
+      <guid>http://localhost:1313/les-singeries/</guid><media:content url="http://localhost:1313/les-singeries/IMG_20240305_133132_hu_495d256d03bbf865.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/les-singeries/IMG_20240305_133132_hu_495d256d03bbf865.jpg&quot; /&gt;
+          &lt;p&gt;Spécificité du XVIIIè siècle. Effet comique rendu par la parodie des personnages de la comedia dell arte.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
