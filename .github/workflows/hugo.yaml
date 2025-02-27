@@ -41,6 +41,7 @@ jobs:
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout
+        uses: https://raw.githubusercontent.com/cyrilschkrill/uneperleenplus/refs/heads/master/.github/workflows/hugo.yaml
         with:
           submodules: recursive
           fetch-depth: 0
